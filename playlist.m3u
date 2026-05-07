@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="radioexitosa.pe" tvg-name="Radio Exitosa TV" group-title="Peru TV",Radio Exitosa TV
-https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1a1/mono.m3u8
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+https://raw.githubusercontent.com/RadioExitosa/iptv-radio-exitosa/refs/heads/main/logo-radio-Exitosa-peru-envivo-24-7%20(2).jpg
